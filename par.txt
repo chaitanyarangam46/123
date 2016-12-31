@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<title>
+welcome to rck
+</title>
+</head>
+<body>
+<h1>home page of html</h1>
+<p>jfkdjffkjdkdjkfs</p>
+<hr/>
+<h2>home page of second row<h2>
+<p>jdasdjaskdlkdjkdkd</p>
+</body>
+</html>
